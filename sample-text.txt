@@ -1,4 +1,2 @@
 this is for testing
-this is for changing something in the file
-
-this for changes made in the second branch
+this for checking the merge conflicts
